@@ -49,17 +49,17 @@ $(function() {
         var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',');
 
         $('.total-number-1').animateNumber({
-            number: 2240, //change value here
+            number: 14100, //change value here
             numberStep: comma_separator_number_step
         }, 2000);
 
         $('.total-number-2').animateNumber({
-            number: 3408, //change value here
+            number: 4114, //change value here
             numberStep: comma_separator_number_step
         }, 2000);
 
         $('.total-number-3').animateNumber({
-            number: 1000, //change value here
+            number: 6514, //change value here
             numberStep: comma_separator_number_step
         }, 2000);
 
