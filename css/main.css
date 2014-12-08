@@ -179,7 +179,6 @@ h2 { font-weight: 600; }
 .sub-form .button:focus { outline: none; }
 
 .terms {
-  text-align: left;
   font-style: italic;
   padding-top: .75em;
   font-weight: 300;
